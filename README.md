@@ -1,6 +1,6 @@
 ## DXCC World Map
 
-A geoJSON representation of Earth, divided into DXCC entities.
+A GeoJSON representation of Earth, divided into DXCC entities.
 
 ### About DXCC
 
